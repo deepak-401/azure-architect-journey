@@ -107,4 +107,4 @@ Azure Networking · Virtual Network design · Site-to-Site VPN Gateway configura
 ## Author
 
 **Deepak Patra**
-IT & Cloud Engineering | AZ-900 · AZ-104
+IT & Cloud Engineering | AZ-700 · AZ-104 · AZ-305
