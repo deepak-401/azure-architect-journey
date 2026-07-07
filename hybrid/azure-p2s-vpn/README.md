@@ -82,4 +82,4 @@ Azure Networking · Virtual Network design · VPN Gateway & GatewaySubnet config
 ## Author
 
 **Deepak Patra**
-IT & Cloud Engineering | AZ-900 · AZ-104
+IT & Cloud Engineering | AZ-700 · AZ-104 . AZ-305
